@@ -6,7 +6,7 @@ public class Lab004 {
         short s = 1234; // short
         int i = 123456; //integer
         long l = 123456789;
-        float F = 14.6F;
+     //   float F = 14.6F;
 
         System.out.println(age);
         System.out.println(s);
