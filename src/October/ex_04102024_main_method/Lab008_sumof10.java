@@ -1,6 +1,6 @@
-package October.ex_04102024;
+package October.ex_04102024_main_method;
 
-public class Lab003 {
+public class Lab008_sumof10 {
     public static void main(String[] args) {
        // Table of 10
         System.out.println("10 * 1 = " + (10 * 1));
