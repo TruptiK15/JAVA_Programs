@@ -1,0 +1,22 @@
+Research about HTTP.
+- HTTP (Hypertext Transfer Protocol) is the set of rules for transferring files -- such as text, images, sound, video and other multimedia files -- over the web
+- Through the HTTP protocol, resources are exchanged between client devices and servers over the internet
+- HTTP messages are requests or responses. Client devices submit HTTP requests to servers, which reply by sending HTTP responses back to the clients
+
+Research about API Testing, What is it, How to do it?
+- API testing is a process that confirms an API is working as expected.
+- Application Program Interface testing is a type of software testing that validates the behavior and performance of an application program interface
+- API testing involves sending requests to the server, analyzing responses, and verifying whether they are correct or not. It also involves testing for security vulnerabilities, performance issues, and other potential bugs. By performing API tests, stakeholders can make sure that their applications are functioning as expected.
+
+How to Do API Testing
+- Review the API specification - understand the purpose, API functions and what results to expect
+- Determine API testing requirements - determine the testing requirements of the API.
+- Define input parameters - i.e., header, query, and rest body parameters and input parameter
+- Create positive and negative tests - run a combination of positive and negative tests.
+- Select an API testing tool - Postman is a great option for testing REST APIs
+
+Client-Server Architecture: 
+Client-Server Architecture is a network model that allows communication and data exchange between different applications over a single or multiple servers.
+
+
+HTTP vs HTTPs
